@@ -1,0 +1,24 @@
+D:\Sajor\PansoyIPT101Solution\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Sajor\PansoyIPT101Solution\Domain\bin\Debug\net9.0\Domain.dll
+D:\Sajor\PansoyIPT101Solution\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\Domain.dll
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Sajor\PansoyIPT101Solution\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\New folder\Pans\PansoyIPT101\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\New folder\Pans\PansoyIPT101\Domain\bin\Debug\net9.0\Domain.dll
+D:\New folder\Pans\PansoyIPT101\Domain\bin\Debug\net9.0\Domain.pdb
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\Domain.dll
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\Domain.pdb
+D:\New folder\Pans\PansoyIPT101\Domain\obj\Debug\net9.0\ref\Domain.dll

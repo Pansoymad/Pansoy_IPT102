@@ -1,0 +1,12 @@
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\PansoyDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\PansoyDomain.AssemblyInfoInputs.cache
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\PansoyDomain.AssemblyInfo.cs
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\PansoyDomain.csproj.CoreCompileInputs.cache
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\PansoyDomain.sourcelink.json
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\bin\Debug\net9.0\PansoyDomain.deps.json
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\bin\Debug\net9.0\PansoyDomain.dll
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\bin\Debug\net9.0\PansoyDomain.pdb
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\PansoyDomain.dll
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\refint\PansoyDomain.dll
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\PansoyDomain.pdb
+D:\Sajor\PansoyIPT101Solution\PansoyDomain\obj\Debug\net9.0\ref\PansoyDomain.dll
