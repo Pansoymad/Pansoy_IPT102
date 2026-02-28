@@ -1,0 +1,36 @@
+D:\Sajor\PansoyIPT101Solution\Framework\bin\Debug\net9.0\Framework.deps.json
+D:\Sajor\PansoyIPT101Solution\Framework\bin\Debug\net9.0\Framework.runtimeconfig.json
+D:\Sajor\PansoyIPT101Solution\Framework\bin\Debug\net9.0\Framework.dll
+D:\Sajor\PansoyIPT101Solution\Framework\bin\Debug\net9.0\Framework.pdb
+D:\Sajor\PansoyIPT101Solution\Framework\bin\Debug\net9.0\Domain.dll
+D:\Sajor\PansoyIPT101Solution\Framework\bin\Debug\net9.0\Domain.pdb
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.csproj.AssemblyReference.cache
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.AssemblyInfoInputs.cache
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.AssemblyInfo.cs
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.csproj.CoreCompileInputs.cache
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.sourcelink.json
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.csproj.Up2Date
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.dll
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\refint\Framework.dll
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.pdb
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\Framework.genruntimeconfig.cache
+D:\Sajor\PansoyIPT101Solution\Framework\obj\Debug\net9.0\ref\Framework.dll
+D:\New folder\Pans\PansoyIPT101\Framework\bin\Debug\net9.0\Framework.deps.json
+D:\New folder\Pans\PansoyIPT101\Framework\bin\Debug\net9.0\Framework.runtimeconfig.json
+D:\New folder\Pans\PansoyIPT101\Framework\bin\Debug\net9.0\Framework.dll
+D:\New folder\Pans\PansoyIPT101\Framework\bin\Debug\net9.0\Framework.pdb
+D:\New folder\Pans\PansoyIPT101\Framework\bin\Debug\net9.0\Domain.dll
+D:\New folder\Pans\PansoyIPT101\Framework\bin\Debug\net9.0\Domain.pdb
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.csproj.AssemblyReference.cache
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.AssemblyInfoInputs.cache
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.AssemblyInfo.cs
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.csproj.CoreCompileInputs.cache
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.sourcelink.json
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.csproj.Up2Date
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.dll
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\refint\Framework.dll
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.pdb
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\Framework.genruntimeconfig.cache
+D:\New folder\Pans\PansoyIPT101\Framework\obj\Debug\net9.0\ref\Framework.dll
