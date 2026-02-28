@@ -1,0 +1,42 @@
+﻿<Window x:Class="PansoyWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PansoyWpf"
+        xmlns:views="clr-namespace:PansoyWpf.Views"
+        xmlns:viewmodels="clr-namespace:PansoyWpf.ViewModels"
+        mc:Ignorable="d"
+        Title="Movie Manager" Height="600" Width="900"
+        Background="LightBlue">
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type viewmodels:HomeViewModel}">
+            <views:HomeView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:MainViewModel}">
+            <views:MainView/>
+        </DataTemplate>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Navigation Bar -->
+        <Border Grid.Row="0" Background="DarkBlue" Padding="10">
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Home" Width="100" Height="35" Margin="5" 
+                        Background="White" Foreground="DarkBlue" FontWeight="Bold"
+                        Command="{Binding NavigateHomeCommand}"/>
+                <Button Content="Manage Movies" Width="120" Height="35" Margin="5"
+                        Background="White" Foreground="DarkBlue" FontWeight="Bold"
+                        Command="{Binding NavigateToManagerCommand}"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Content Area -->
+        <ContentControl Grid.Row="1" Content="{Binding CurrentViewModel}"/>
+    </Grid>
+</Window>
